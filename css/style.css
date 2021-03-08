@@ -1,0 +1,10 @@
+body {
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+#profile {
+    object-fit: cover;
+    border-radius: 50%;
+    width: 200px;
+}
