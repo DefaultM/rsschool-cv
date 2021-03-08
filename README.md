@@ -1,0 +1,1 @@
+[CV by Evgeniy Panteleev](https://defaultm.github.io/rsschool-cv/cv)
