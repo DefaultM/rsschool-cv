@@ -8,3 +8,13 @@ body {
     border-radius: 50%;
     width: 200px;
 }
+
+.contacts {
+    display: flex;
+    list-style: square inside;
+    justify-content: center;
+}
+
+.contacts li {
+    margin-right: 20px;
+}
